@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+
+
+
+ /* HEADER/ NAVIGATION --------------------------------------------------------------------*/
+#header {
+    background-color: #ffb5b5;
+    width: 780px;
+    color:	#ff4f4a;
+    padding: 10px;
+    font-family: 'Nunito', sans-serif;
+    align-items: center;
+    display: flex;
+     #nav {
+    float: inline-end;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    
+}
+ }
+ 
+
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffb5b5;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: inline-flex;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+
+
+.dropdown {
+    float: center;
+    overflow: hidden;
+  }
+
+  ul li a:hover{
+    color: #fff;
+    background: #ff4f4a;
+
+}
+ /* HEADING FORMATTING -------------------------------------------------------------------- */
+ h1 {
+     margin: 0;
+ }
+ 
+ h2 {
+     color: 	#786060;
+ }
+ 
+ h3 {
+    color: 	#786060;
+ }
+
+
+
+  /* BODY --------------------------------------------------------------------*/
+body {
+    background-color: 	#fffaf0;
+    padding: 10px;
+}
+
+li, a, button {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-family: 'Nunito', sans-serif;
+   }
+
+
+
+ /* CONTAINER-------------------------------------------------------------------- */
+#container {
+   background-color: white;
+   width: 800px;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 20px;
+}
+
+
+ /* MAIN-------------------------------------------------------------------- */
+#main {
+    width: 800px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 120%;
+}
+
+
+ /* FOOTER -------------------------------------------------------------------- */
+#footer {
+    background-color:#fffaf0;
+    color:	#ff4f4a;
+    text-align: right;
+    clear: both; 
+    font-family: 'Nunito', sans-serif;
+}
+
