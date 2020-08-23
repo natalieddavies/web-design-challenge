@@ -1,4 +1,0 @@
-                <a class="dropdown-item" href="C:\Users\natal\Desktop\web-design-challenge\vis_1.html" > visualisations 1 </a>
-                <a class="dropdown-item" href="C:\Users\natal\Desktop\web-design-challenge\vis_2.html" > visualisations 2 </a>            
-                <a class="dropdown-item" href="C:\Users\natal\Desktop\web-design-challenge\vis_3.html" > visualisations 3</a>
-                <a class="dropdown-item" hreF="C:\Users\natal\Desktop\web-design-challenge\vis_4.html" > visualisations 4</a>
