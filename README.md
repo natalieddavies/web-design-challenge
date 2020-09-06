@@ -1,12 +1,10 @@
 # WEB DESIGN
 
-I have created a website using the data created in the [Matplotlib challenge](https://github.com/natalieddavies/matplotlib-challenge). We were meant to use the WeatherData, but it was an optional bonus to use a dataset of our choice. I thoroughly enjoyed the Matplotlib challenge so I decided to use that data.
-
 ## Dashboard
 
-For this task I will be creating a visualization dashboard website using visualizations we've created in a past assignment. 
+For this task I will be creating a visualisation dashboard website using visualizations we've created in a past assignment. 
 
-In building this dashboard, I'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. I'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
+In building this dashboard, I'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualisations and their corresponding explanations. I'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
 ### Website Details
 
