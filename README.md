@@ -8,7 +8,7 @@ In building this dashboard, I'll create individual pages for each plot and a mea
 
 ### Website Details
 
-The website must consist of 7 pages total, including:
+The website consists of 7 pages total, including:
 
 * A landing page containing:
   * An explanation of the project.
